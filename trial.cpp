@@ -7,5 +7,6 @@ int main(int argc, char** argv) {
 		std::cout << argv[i] << std::endl;
 	}
 	std::cout << "Hello welcome to command prompt" << std::endl;
+	std::cout << "Willkommen" << std::endl;
 	return 0;
 }
