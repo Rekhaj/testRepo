@@ -9,6 +9,5 @@ int main(int argc, char** argv) {
 	std::cout << "Hello welcome to command prompt" << std::endl;
 	std::cout << "Willkommen" << std::endl;
 	std::cout << "Adding the first line of information" << std::endl;
-	std::cout << "Adding the second line of information" << std::endl;
 	return 0;
 }
